@@ -20,5 +20,3 @@ My Portfolio and communication are here:
 https://github.com/escanut
 https://www.linkedin.com/in/victorojeje/
 https://dev.to/escanut
-
-ojejevictor@gmail.com
